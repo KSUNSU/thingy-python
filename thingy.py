@@ -14,6 +14,6 @@ async def scan():
 
 address = asyncio.run(scan())
 thingy = Thingy52(address)
-print("Hello World")
+
 
 #working
