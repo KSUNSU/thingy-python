@@ -15,5 +15,3 @@ async def scan():
 address = asyncio.run(scan())
 thingy = Thingy52(address)
 
-
-#working
